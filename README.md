@@ -42,8 +42,8 @@ pip install numpy matplotlib opencv-python jupyterlab
 
 1.  **Clone the repository**:
     ```bash
-    git clone [YOUR_REPOSITORY_URL]
-    cd [YOUR_REPOSITORY_NAME]
+    git clone https://github.com/Mystery-World3/Python-for-Visual-Data-Signal-Image-Processing.git
+    cd Python-for-Visual-Data-Signal-Image-Processing
     ```
 2.  **Add Images**: Make sure you have the `lena.png` and `baboon.png` image files in the same directory as the notebook.
 
